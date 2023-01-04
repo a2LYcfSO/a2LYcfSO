@@ -3306,7 +3306,21 @@ ul {
 }
 
 hr {
-    border-top-width: 1px
+    /* border-top-width: 1px; */
+    text-align: center;
+    overflow: visible;
+    margin-top: 2em !important;
+}
+
+hr:before {
+    font-size: 30px;
+    letter-spacing: .3em;
+    content: '* * *';
+    display: inline-block;
+    margin-left: .3em;
+    position: relative;
+    top: -.625em;
+    color: var(--head);
 }
 
 img {
@@ -4142,7 +4156,8 @@ html:not(.high-contrast) .name-source:not(:hover):not(.open) .name-target {
 }
 
 .rich-text blockquote {
-    padding-left: calc(var(--indent) + .25em)
+    padding-left: 1.215rem;
+    border-left: 6px solid;
 }
 
 .rich-text figcaption {

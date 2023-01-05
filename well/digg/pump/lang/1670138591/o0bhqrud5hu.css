@@ -276,6 +276,7 @@
     --text-sub:#646464;
     --font-wei: 350;
     --img-fil: grayscale(10%) saturate(90%) brightness(80%) contrast(90%);
+    --ftc-fil: invert(100%) brightness(80%);
     --bw-fil: invert(50%);
     --bw: #ffffff;
     --darker:#333;
@@ -4587,6 +4588,17 @@ background-image:none;
 background-color:var(--darker)
 }
 
+.holding.ft-charts,.holding.png {
+    background-color: transparent;
+}
+.holding.ft-charts::before,.holding.png::before {
+        animation: none;
+    background-image: none;
+}
+.holding.ft-charts img {
+    filter: var(--ftc-fil);
+}
+
 
 img.lazyload,
 img.lazyloading,
@@ -5525,7 +5537,7 @@ a.skip-to-main-content:focus {
 
 .sticky {
     position: sticky;
-    z-index: 2;
+    z-index: 5;
 }
 
 .top-0 {

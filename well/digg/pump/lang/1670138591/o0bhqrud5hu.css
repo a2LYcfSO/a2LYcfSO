@@ -223,6 +223,7 @@
     --orangeyellow: #740909;
 
     --bg: #f1e9e7;
+    --bg-ft: #FAEDDD;
     --bv: #121212;
     --bg-holding: rgba(0, 0, 0, 0.05);
 
@@ -263,6 +264,7 @@
     --orangeyellow: rgb(252 173 0);
 
     --bg: #121212;
+    --bg-ft: :var(--bg);
     --bv: #f1e9e7;
     --bg-holding: #333;
 
@@ -6477,6 +6479,12 @@ figure.insetleft--economist-c.burrs img.lazyloaded {
 
 .cover-nym {
     padding-bottom: calc(2048 / 1672 * 100%);
+}
+
+.cover-ft {
+    padding-top: calc(2769 / 1730 * 100%);
+    background-color: #FAEDDD;
+    border: 1px solid #121212;
 }
 
 p[lang='en-GB']{

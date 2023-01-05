@@ -223,7 +223,7 @@
     --orangeyellow: #740909;
 
     --bg: #f1e9e7;
-    --bg-ft: #FAEDDD;
+
     --bv: #121212;
     --bg-holding: rgba(0, 0, 0, 0.05);
 
@@ -264,9 +264,9 @@
     --orangeyellow: rgb(252 173 0);
 
     --bg: #121212;
-    --bg-ft: :var(--bg);
+
     --bv: #f1e9e7;
-    --bg-holding: #333;
+    --bg-holding: rgb(12, 7, 7);
 
   
     --head:#A1A1A6;

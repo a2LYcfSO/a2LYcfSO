@@ -196,7 +196,7 @@
 }
 
 .toaster-theme-bizweek {
-    background: var(--bg);
+    background: transparent;
     font-family: bwhaasdingbat,bwhaastext,hiragino kaku gothic pro,noto sans japanese,noto sans chinese,Arial,sans-serif;
     font-size: 14px;
     font-weight: 400

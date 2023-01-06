@@ -707,7 +707,7 @@
 }
 
 .toaster-theme-bizweek text.threshold-label {
-    fill: #000;
+    fill: var(--text);
     text-shadow: -1px -1px 1px var(--bg),-1px -.5px 1px var(--bg),-1px 0 1px var(--bg),-1px .5px 1px var(--bg),-1px 1px 1px var(--bg),-.5px -1px 1px var(--bg),-.5px -.5px 1px var(--bg),-.5px 0 1px var(--bg),-.5px .5px 1px var(--bg),-.5px 1px 1px var(--bg),0 -.5px 1px var(--bg),0 -.5px 1px var(--bg),0 1px 1px var(--bg),0 1px 1px var(--bg),.5px -1px 1px var(--bg),.5px -.5px 1px var(--bg),.5px 0 1px var(--bg),.5px .5px 1px var(--bg),.5px 1px 1px var(--bg),1px -1px 1px var(--bg),1px -.5px 1px var(--bg),1px 0 1px var(--bg),1px .5px 1px var(--bg),1px 1px 1px var(--bg)
 }
 
@@ -726,7 +726,7 @@
 }
 
 .toaster-theme-bizweek path.threshold-line {
-    stroke: #000;
+    stroke: var(--text);
     stroke-width: 1.5;
     stroke-dasharray: 5 3
 }
@@ -1621,7 +1621,7 @@
 }
 
 .toaster-theme-bizweek .simple-table-mobile tbody {
-    border-top: 1px solid #000
+    border-top: 1px solid var(--text)
 }
 
 .toaster-theme-bizweek .simple-table-mobile tbody:first-child {
@@ -1891,7 +1891,7 @@
 }
 
 .toaster-theme-bizweek .swatch {
-    border: solid 1px #000
+    border: solid 1px var(--text)
 }
 
 .toaster-theme-bizweek .swatch.line {
@@ -1900,7 +1900,7 @@
 
 .toaster-theme-bizweek.toaster-chart rect.column {
     stroke-width: 1px;
-    stroke: #000
+    stroke: var(--text)
 }
 
 .toaster-theme-bizweek.toaster-chart .logo {
@@ -1909,7 +1909,7 @@
 
 .toaster-theme-bizweek.toaster-chart .line-area {
     fill-opacity: 1;
-    stroke: #000;
+    stroke: var(--text);
     stroke-width: .9
 }
 
@@ -1923,11 +1923,11 @@
 
 .toaster-theme-bizweek.toaster-chart .annotations circle {
     fill: var(--bg)!important;
-    stroke: #000
+    stroke: var(--text)
 }
 
 .toaster-theme-bizweek.toaster-chart .pie-container.not-highlighted path,.toaster-theme-bizweek.toaster-chart .pie-container.highlighted path {
-    stroke: #000;
+    stroke: var(--text);
     stroke-width: 1px
 }
 
@@ -1936,7 +1936,7 @@
 }
 
 .toaster-theme-bizweek.toaster-chart .box-inner {
-    border: solid 1px #000
+    border: solid 1px var(--text)
 }
 
 .toaster-theme-bizweek.toaster-chart .simple-line .line {

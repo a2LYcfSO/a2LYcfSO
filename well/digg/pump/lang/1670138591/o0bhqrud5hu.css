@@ -6874,3 +6874,34 @@ p.chart__footnote::after {
 }
 
 /* bloomberg chars E */
+
+/* Root S */
+.tag-mpcqzgrf8z6 .graf-h1 {
+    color: var(--accent);
+    font-family: var(--font-sans);
+    font-weight: 500;
+    font-size: clamp(2.25rem, 1.8434rem + 1.8072vw, 3rem);
+    text-align: left;
+}
+
+.tag-mpcqzgrf8z6 h2[lang=en-GB] {
+    font-weight: 500;
+    font-size: clamp(1.5625rem, 1.4608rem + 0.4518vw, 1.75rem);
+}
+
+.dvz-subscriber-pill {
+    color: var(--input-bg);
+    background: var(--bv);
+    border-color: var(--bv);
+    border-radius: 99em;
+    border-width: 1px;
+    border-style: solid;
+    display: inline-block;
+    text-decoration: none;
+    line-height: 24px;
+    padding: 7px 20px 9px;
+    font-size: 20px;
+    margin: 2.25rem auto 1rem;
+    font-weight: 400;
+}
+/* Root E */

@@ -1,0 +1,76 @@
+body {
+    font-feature-settings: "tnum";
+}
+
+@font-face {
+    font-family: 'Financier Display Web';
+    src: url('FinancierDisplayWeb-Regular.woff2') format('woff2'),
+        url('FinancierDisplayWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Financier Display Web';
+    src: url('FinancierDisplayWeb-RegularItalic.woff2') format('woff2'),
+        url('FinancierDisplayWeb-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Financier Display Web';
+    src: url('FinancierDisplay-Semibold.woff2') format('woff2'),
+        url('FinancierDisplay-Semibold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Financier Display Web';
+    src: url('FinancierDisplay-SemiboldItalic.woff2') format('woff2'),
+        url('FinancierDisplay-SemiboldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+    font-feature-settings: "tnum";
+}
+
+@font-face {
+    font-family: 'Metric Web';
+    src: url('MetricWebRegular.woff2') format('woff2'),
+        url('MetricWebRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metric Web';
+    src: url('MetricWebMedium.woff2') format('woff2'),
+        url('MetricWebMedium.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metric Web';
+    src: url('MetricWebRegularItalic.woff2') format('woff2'),
+        url('MetricWebRegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metric Web';
+    src: url('Metric-MediumItalic.woff2') format('woff2'),
+        url('Metric-MediumItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}

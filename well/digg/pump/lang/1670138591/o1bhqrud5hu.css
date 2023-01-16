@@ -707,7 +707,7 @@ a {
     text-align: center;
     left: 50%;
     top: 50%;
-    width: 80%;
+/*     width: 80%; */
     transform: translate(-50%,-50%);
     mix-blend-mode: difference
 }

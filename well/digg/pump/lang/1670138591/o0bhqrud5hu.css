@@ -6842,7 +6842,9 @@ overflow: scroll;
     color: var(--text)
 }
 
-p.chart__footnote::after {
+.entry-content p.chart__subtitle::after,
+.entry-content p.chart__source::after,
+.entry-content p.chart__footnote::after {
     display: none;
 }
 

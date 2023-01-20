@@ -6873,6 +6873,10 @@ p.chart__footnote::after {
     }
 }
 
+.bloomberg-chart .toaster-chart {
+    margin: 10px 0;
+}
+
 /* bloomberg chars E */
 
 /* Root S */

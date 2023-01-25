@@ -6884,10 +6884,9 @@ overflow: scroll;
 
 /* Root S */
 .tag-mpcqzgrf8z6 .graf-h1 {
-    color: var(--accent);
     font-family: var(--font-sans);
-    font-size: clamp(2.25rem, 1.8434rem + 1.8072vw, 3rem);
-    line-height: 1.4;
+    font-size: clamp(2.125rem, 1.4632rem + 2.9412vw, 2.875rem);
+    line-height: 1.28;
     text-align: left;
 }
 

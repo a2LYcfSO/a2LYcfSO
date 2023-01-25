@@ -6886,8 +6886,8 @@ overflow: scroll;
 .tag-mpcqzgrf8z6 .graf-h1 {
     color: var(--accent);
     font-family: var(--font-sans);
-    font-weight: 500;
     font-size: clamp(2.25rem, 1.8434rem + 1.8072vw, 3rem);
+    line-height: 1.4;
     text-align: left;
 }
 

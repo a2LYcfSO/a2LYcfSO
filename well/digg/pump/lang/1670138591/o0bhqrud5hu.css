@@ -6910,6 +6910,19 @@ overflow: scroll;
     margin: 2.25rem auto 1rem;
     font-weight: 400;
 }
+
+@media(min-width: 768px) {
+figure.insetright--magazineng-c {
+    float: right;
+    width: 50%;
+    max-width: 360px;
+    margin: .7em 0 1em 1em!important;
+}
+}
+
+.tag-mpcqzgrf8z6 .rich-text figcaption {
+    color: var(--text-sub);
+}
 /* Root E */
 
 /* cardx S */

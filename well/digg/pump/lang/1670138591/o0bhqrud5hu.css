@@ -6912,12 +6912,31 @@ overflow: scroll;
 }
 
 @media(min-width: 768px) {
-figure.insetright--magazineng-c {
-    float: right;
-    width: 50%;
-    max-width: 360px;
-    margin: .7em 0 1em 1em!important;
+    figure.insetright--magazineng-c {
+        float: right;
+        width: 50%;
+        max-width: 360px;
+        margin: .7em 0 1em 1em !important
+    }
+
+    figure.insetleft--magazineng-c {
+        float: left;
+        width: 50%;
+        max-width: 360px;
+        margin: .7em 1em 1em 0 !important
+    }
 }
+
+
+
+@media(min-width: 1200px) {
+    figure.insetright--magazineng-c.pullout {
+        margin-right: -150px !important
+    }
+
+    figure.insetleft--magazineng-c.pullout {
+        margin-left: -150px !important
+    }
 }
 
 .tag-mpcqzgrf8z6 .rich-text figcaption {

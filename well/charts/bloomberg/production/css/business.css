@@ -1,167 +1,167 @@
 @font-face {
     font-family: 'BWHaasText';
-    src: url("../font/BWHaasText-75Bold.woff2") format('woff2'),url("../font/BWHaasText-75Bold.woff") format('woff');
+    src: url("../font/BWHaasText-75Bold.woff2") format('woff2'), url("../font/BWHaasText-75Bold.woff") format('woff');
     font-weight: 700;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasText';
-    src: url("../font/BWHaasText-76BoldItalic.woff2") format('woff2'),url("../font/BWHaasText-76BoldItalic.woff") format('woff');
+    src: url("../font/BWHaasText-76BoldItalic.woff2") format('woff2'), url("../font/BWHaasText-76BoldItalic.woff") format('woff');
     font-weight: 700;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasText';
-    src: url("../font/BWHaasText-65Medium.woff2") format('woff2'),url("../font/BWHaasText-65Medium.woff") format('woff');
+    src: url("../font/BWHaasText-65Medium.woff2") format('woff2'), url("../font/BWHaasText-65Medium.woff") format('woff');
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasText';
-    src: url("../font/BWHaasText-66MediumItalic.woff2") format('woff2'),url("../font/BWHaasText-66MediumItalic.woff") format('woff');
+    src: url("../font/BWHaasText-66MediumItalic.woff2") format('woff2'), url("../font/BWHaasText-66MediumItalic.woff") format('woff');
     font-weight: 500;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasText';
-    src: url("../font/BWHaasText-55Roman.woff2") format('woff2'),url("../font/BWHaasText-55Roman.woff") format('woff');
+    src: url("../font/BWHaasText-55Roman.woff2") format('woff2'), url("../font/BWHaasText-55Roman.woff") format('woff');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasText';
-    src: url("../font/BWHaasText-56Italic.woff2") format('woff2'),url("../font/BWHaasText-56Italic.woff") format('woff');
+    src: url("../font/BWHaasText-56Italic.woff2") format('woff2'), url("../font/BWHaasText-56Italic.woff") format('woff');
     font-weight: 400;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-95Black.woff2") format('woff2'),url("../font/BWHaasHead-95Black.woff") format('woff');
+    src: url("../font/BWHaasHead-95Black.woff2") format('woff2'), url("../font/BWHaasHead-95Black.woff") format('woff');
     font-weight: 900;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-96BlackItalic.woff2") format('woff2'),url("../font/BWHaasHead-96BlackItalic.woff") format('woff');
+    src: url("../font/BWHaasHead-96BlackItalic.woff2") format('woff2'), url("../font/BWHaasHead-96BlackItalic.woff") format('woff');
     font-weight: 900;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-75Bold.woff2") format('woff2'),url("../font/BWHaasHead-75Bold.woff") format('woff');
+    src: url("../font/BWHaasHead-75Bold.woff2") format('woff2'), url("../font/BWHaasHead-75Bold.woff") format('woff');
     font-weight: 700;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-76BoldItalic.woff2") format('woff2'),url("../font/BWHaasHead-76BoldItalic.woff") format('woff');
+    src: url("../font/BWHaasHead-76BoldItalic.woff2") format('woff2'), url("../font/BWHaasHead-76BoldItalic.woff") format('woff');
     font-weight: 700;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-65Medium.woff2") format('woff2'),url("../font/BWHaasHead-65Medium.woff") format('woff');
+    src: url("../font/BWHaasHead-65Medium.woff2") format('woff2'), url("../font/BWHaasHead-65Medium.woff") format('woff');
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-66MediumItalic.woff2") format('woff2'),url("../font/BWHaasHead-66MediumItalic.woff") format('woff');
+    src: url("../font/BWHaasHead-66MediumItalic.woff2") format('woff2'), url("../font/BWHaasHead-66MediumItalic.woff") format('woff');
     font-weight: 500;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-55Roman.woff2") format('woff2'),url("../font/BWHaasHead-55Roman.woff") format('woff');
+    src: url("../font/BWHaasHead-55Roman.woff2") format('woff2'), url("../font/BWHaasHead-55Roman.woff") format('woff');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-56Italic.woff2") format('woff2'),url("../font/BWHaasHead-56Italic.woff") format('woff');
+    src: url("../font/BWHaasHead-56Italic.woff2") format('woff2'), url("../font/BWHaasHead-56Italic.woff") format('woff');
     font-weight: 400;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-25XThin.woff2") format('woff2'),url("../font/BWHaasHead-25XThin.woff") format('woff');
+    src: url("../font/BWHaasHead-25XThin.woff2") format('woff2'), url("../font/BWHaasHead-25XThin.woff") format('woff');
     font-weight: 100;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasHead';
-    src: url("../font/BWHaasHead-26XThinItalic.woff2") format('woff2'),url("../font/BWHaasHead-26XThinItalic.woff") format('woff');
+    src: url("../font/BWHaasHead-26XThinItalic.woff2") format('woff2'), url("../font/BWHaasHead-26XThinItalic.woff") format('woff');
     font-weight: 100;
     font-style: italic
 }
 
 @font-face {
     font-family: 'BWHaasTextFixed';
-    src: url("../font/BWHaasGrotesk-65Fixed.woff2") format('woff2'),url("../font/BWHaasGrotesk-65Fixed.woff") format('woff');
+    src: url("../font/BWHaasGrotesk-65Fixed.woff2") format('woff2'), url("../font/BWHaasGrotesk-65Fixed.woff") format('woff');
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BWHaasTextFixed';
-    src: url("../font/BWHaasGrotesk-55Fixed.woff2") format('woff2'),url("../font/BWHaasGrotesk-55Fixed.woff") format('woff');
+    src: url("../font/BWHaasGrotesk-55Fixed.woff2") format('woff2'), url("../font/BWHaasGrotesk-55Fixed.woff") format('woff');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Hiragino Kaku Gothic Pro';
-    src: url("../font/hiragino-kaku-gothic-pro-w3.woff2") format('woff2'),url("../font/hiragino-kaku-gothic-pro-w3.woff") format('woff');
+    src: url("../font/hiragino-kaku-gothic-pro-w3.woff2") format('woff2'), url("../font/hiragino-kaku-gothic-pro-w3.woff") format('woff');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Hiragino Kaku Gothic Pro';
-    src: url("../font/hiragino-kaku-gothic-pro-w6.woff2") format('woff2'),url("../font/hiragino-kaku-gothic-pro-w6.woff") format('woff');
+    src: url("../font/hiragino-kaku-gothic-pro-w6.woff2") format('woff2'), url("../font/hiragino-kaku-gothic-pro-w6.woff") format('woff');
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Noto Sans Japanese';
-    src: url("../font/NotoSansJP-Regular.woff2") format('woff2'),url("../font/NotoSansJP-Regular.woff") format('woff');
+    src: url("../font/NotoSansJP-Regular.woff2") format('woff2'), url("../font/NotoSansJP-Regular.woff") format('woff');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Noto Sans Japanese';
-    src: url("../font/NotoSansJP-Bold.woff2") format('woff2'),url("../font/NotoSansJP-Bold.woff") format('woff');
+    src: url("../font/NotoSansJP-Bold.woff2") format('woff2'), url("../font/NotoSansJP-Bold.woff") format('woff');
     font-weight: 500;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Noto Sans Chinese';
-    src: url("../font/NotoSansSC-Regular.woff2") format('woff2'),url("../font/NotoSansSC-Regular.woff") format('woff');
+    src: url("../font/NotoSansSC-Regular.woff2") format('woff2'), url("../font/NotoSansSC-Regular.woff") format('woff');
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'Noto Sans Chinese';
-    src: url("../font/NotoSansSC-Bold.woff2") format('woff2'),url("../font/NotoSansSC-Bold.woff") format('woff');
+    src: url("../font/NotoSansSC-Bold.woff2") format('woff2'), url("../font/NotoSansSC-Bold.woff") format('woff');
     font-weight: 500;
     font-style: normal
 }
@@ -170,15 +170,15 @@
     font-family: 'BWHaasDingbat';
     font-style: normal;
     font-weight: 400;
-    src: url("../font/BW Haas Grotesk Web Dingbat-Regular.woff2") format('woff2'),url("../font/BW Haas Grotesk Web Dingbat-Regular.woff") format('woff');
-    unicode-range: U+1F151,U+1F322,U+1F3ED,U+1F446,U+1F455,U+1F4A5,U+1F4A7,U+1F4B5,U+1F4BB,U+1F4BC,U+1F4C8,U+1F4CA,U+1F50D,U+1F525,U+1F5CB,U+1F687,U+1F6A2,U+1F6B9,U+1F6C9,U+1F6E1,U+1F6E2,U+1F6E6,U+1F6EA,U+1F6EB,U+1F93A,U+2139,U+2190,U+2191,U+2192,U+2193,U+21A2,U+21A3,U+21D0,U+21D2,U+21E1,U+21E3,U+21E6,U+21E8,U+2212,U+2261,U+2263,U+226A,U+226B,U+227A,U+227B,U+22D8,U+22D9,U+2301,U+2302,U+238F,U+23E9,U+23EA,U+23EB,U+23EC,U+23ED,U+23EE,U+25A0,U+25A1,U+25BC,U+25BD,U+25CB,U+25CF,U+25D6,U+25D7,U+25DC,U+25DD,U+2600,U+2606,U+2617,U+2622,U+2634,U+2692,U+2693,U+2698,U+26BB,U+26F0,U+26F4,U+2713,U+272A,U+2B60,U+2B62,U+2B88,U+2B89,U+2B8A,U+2B8B,U+D7
+    src: url("../font/BW Haas Grotesk Web Dingbat-Regular.woff2") format('woff2'), url("../font/BW Haas Grotesk Web Dingbat-Regular.woff") format('woff');
+    unicode-range: U+1F151, U+1F322, U+1F3ED, U+1F446, U+1F455, U+1F4A5, U+1F4A7, U+1F4B5, U+1F4BB, U+1F4BC, U+1F4C8, U+1F4CA, U+1F50D, U+1F525, U+1F5CB, U+1F687, U+1F6A2, U+1F6B9, U+1F6C9, U+1F6E1, U+1F6E2, U+1F6E6, U+1F6EA, U+1F6EB, U+1F93A, U+2139, U+2190, U+2191, U+2192, U+2193, U+21A2, U+21A3, U+21D0, U+21D2, U+21E1, U+21E3, U+21E6, U+21E8, U+2212, U+2261, U+2263, U+226A, U+226B, U+227A, U+227B, U+22D8, U+22D9, U+2301, U+2302, U+238F, U+23E9, U+23EA, U+23EB, U+23EC, U+23ED, U+23EE, U+25A0, U+25A1, U+25BC, U+25BD, U+25CB, U+25CF, U+25D6, U+25D7, U+25DC, U+25DD, U+2600, U+2606, U+2617, U+2622, U+2634, U+2692, U+2693, U+2698, U+26BB, U+26F0, U+26F4, U+2713, U+272A, U+2B60, U+2B62, U+2B88, U+2B89, U+2B8A, U+2B8B, U+D7
 }
 
 @font-face {
     font-family: 'BWHaasDingbatPlus';
     font-weight: 400;
     font-style: normal;
-    src: url("../font/BW Haas Grotesk Web Dingbat-Regular.woff2") format('woff2'),url("../font/BW Haas Grotesk Web Dingbat-Regular.woff") format('woff');
+    src: url("../font/BW Haas Grotesk Web Dingbat-Regular.woff2") format('woff2'), url("../font/BW Haas Grotesk Web Dingbat-Regular.woff") format('woff');
     unicode-range: U+2B
 }
 
@@ -186,7 +186,7 @@
     font-family: 'BW Haas Grotesk Web Dingbat';
     font-weight: 400;
     font-style: normal;
-    src: url("../font/BW Haas Grotesk Web Dingbat-Regular.woff2") format('woff2'),url("../font/BW Haas Grotesk Web Dingbat-Regular.woff") format('woff')
+    src: url("../font/BW Haas Grotesk Web Dingbat-Regular.woff2") format('woff2'), url("../font/BW Haas Grotesk Web Dingbat-Regular.woff") format('woff')
 }
 
 .toaster-iframe {
@@ -196,13 +196,15 @@
 }
 
 .toaster-theme-business {
-    font-family: "BWHaasDingbat","BWHaasText","Hiragino Kaku Gothic Pro","Noto Sans Japanese","Noto Sans Chinese",Arial,sans-serif;
+    background: var(--bg);
+    font-family: "BWHaasDingbat", "BWHaasText", "Hiragino Kaku Gothic Pro", "Noto Sans Japanese", "Noto Sans Chinese", Arial, sans-serif;
     font-size: 14px;
     line-height: 16px;
     font-weight: normal
 }
 
-.toaster-theme-business h1,.toaster-theme-business h2 {
+.toaster-theme-business h1,
+.toaster-theme-business h2 {
     color: var(--text);
     margin: 0
 }
@@ -259,7 +261,7 @@
     -moz-osx-font-smoothing: grayscale
 }
 
-.toaster-theme-business.toaster-chart > * {
+.toaster-theme-business.toaster-chart>* {
     display: block
 }
 
@@ -283,7 +285,8 @@
     overflow: hidden
 }
 
-.toaster-theme-business.toaster-chart .header.hide,.toaster-theme-business.toaster-chart .footer.hide {
+.toaster-theme-business.toaster-chart .header.hide,
+.toaster-theme-business.toaster-chart .footer.hide {
     display: none
 }
 
@@ -327,7 +330,7 @@
     -moz-osx-font-smoothing: grayscale
 }
 
-.toaster-theme-business.toaster-chart.fit-container > * {
+.toaster-theme-business.toaster-chart.fit-container>* {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex
@@ -357,7 +360,7 @@
     box-sizing: border-box
 }
 
-.toaster-theme-business.toaster-chart.vertical-flow > * {
+.toaster-theme-business.toaster-chart.vertical-flow>* {
     display: block
 }
 
@@ -411,7 +414,8 @@
     fill-opacity: 1
 }
 
-.toaster-theme-business .axis.axis-y.no-line .domain,.toaster-theme-business .axis.axis-y.no-line .tick line {
+.toaster-theme-business .axis.axis-y.no-line .domain,
+.toaster-theme-business .axis.axis-y.no-line .tick line {
     visibility: hidden
 }
 
@@ -421,29 +425,31 @@
 
 .toaster-theme-business text {
     fill: var(--text);
-    font-family: "BWHaasDingbat","BWHaasText","Hiragino Kaku Gothic Pro","Noto Sans Japanese","Noto Sans Chinese",Arial,sans-serif
+    font-family: "BWHaasDingbat", "BWHaasText", "Hiragino Kaku Gothic Pro", "Noto Sans Japanese", "Noto Sans Chinese", Arial, sans-serif
 }
 
 .toaster-theme-business text.left-align {
     text-anchor: start
 }
 
-.toaster-theme-business .axis path.domain,.toaster-theme-business .axis .tick > line {
+.toaster-theme-business .axis path.domain,
+.toaster-theme-business .axis .tick>line {
     stroke-width: 1px;
     stroke: var(--text)
 }
 
-.toaster-theme-business .dual-axis-container .axis .tick > line,.toaster-theme-business .dual-axis-container .axis .tick.base > line {
+.toaster-theme-business .dual-axis-container .axis .tick>line,
+.toaster-theme-business .dual-axis-container .axis .tick.base>line {
     stroke: var(--text);
     stroke-width: 1.3px
 }
 
-.toaster-theme-business .dual-axis-container .axis .tick.zero-line > line {
+.toaster-theme-business .dual-axis-container .axis .tick.zero-line>line {
     stroke: var(--text);
     stroke-width: 1px
 }
 
-.toaster-theme-business .dual-axis-container .axis.no-line .tick > line {
+.toaster-theme-business .dual-axis-container .axis.no-line .tick>line {
     stroke: var(--text);
     stroke-width: 1px
 }
@@ -456,8 +462,12 @@
     stroke: var(--text)
 }
 
-.toaster-theme-business .axis-x text,.toaster-theme-business .axis-y text,.toaster-theme-business .axis-label-box text,.toaster-theme-business .label-container text,.toaster-theme-business .annotations text {
-    font-family: "BWHaasDingbat","BWHaasText","Hiragino Kaku Gothic Pro","Noto Sans Japanese","Noto Sans Chinese",Arial,sans-serif;
+.toaster-theme-business .axis-x text,
+.toaster-theme-business .axis-y text,
+.toaster-theme-business .axis-label-box text,
+.toaster-theme-business .label-container text,
+.toaster-theme-business .annotations text {
+    font-family: "BWHaasDingbat", "BWHaasText", "Hiragino Kaku Gothic Pro", "Noto Sans Japanese", "Noto Sans Chinese", Arial, sans-serif;
     font-size: 14px;
     fill: var(--text)
 }
@@ -466,12 +476,13 @@
     text-anchor: end
 }
 
-.toaster-theme-business .axis-y .tick > line {
+.toaster-theme-business .axis-y .tick>line {
     stroke: var(--text);
     stroke-width: 1.3px
 }
 
-.toaster-theme-business .axis-y .tick.base > line,.toaster-theme-business .axis-y .tick.zero-line > line {
+.toaster-theme-business .axis-y .tick.base>line,
+.toaster-theme-business .axis-y .tick.zero-line>line {
     stroke: var(--text);
     stroke-width: 1px
 }
@@ -488,24 +499,25 @@
     display: none
 }
 
-.toaster-theme-business.no-grid .axis-y .tick > line {
+.toaster-theme-business.no-grid .axis-y .tick>line {
     stroke: var(--text);
     stroke-width: 1px
 }
 
-.toaster-theme-business.no-grid .grid .tick > line {
+.toaster-theme-business.no-grid .grid .tick>line {
     visibility: hidden
 }
 
-.toaster-theme-business.no-grid .grid .tick > line.zero-line {
+.toaster-theme-business.no-grid .grid .tick>line.zero-line {
     visibility: visible
 }
 
-.toaster-theme-business.no-grid .vertical-grid .tick > line.zero-line {
+.toaster-theme-business.no-grid .vertical-grid .tick>line.zero-line {
     display: none
 }
 
-.toaster-theme-business.no-domain .axis-x .domain,.toaster-theme-business .toaster-chart.no-domain .axis-x .domain {
+.toaster-theme-business.no-domain .axis-x .domain,
+.toaster-theme-business .toaster-chart.no-domain .axis-x .domain {
     visibility: hidden
 }
 
@@ -522,51 +534,56 @@
 }
 
 .toaster-theme-business .axis-label-box {
-    font-family: "BWHaasDingbat","BWHaasText","Hiragino Kaku Gothic Pro","Noto Sans Japanese","Noto Sans Chinese",Arial,sans-serif;
+    font-family: "BWHaasDingbat", "BWHaasText", "Hiragino Kaku Gothic Pro", "Noto Sans Japanese", "Noto Sans Chinese", Arial, sans-serif;
     font-size: 14px
 }
 
 .toaster-theme-business .axis-y.left .tick text {
-    -webkit-transform: translate(-5px,6px);
-    transform: translate(-5px,6px)
+    -webkit-transform: translate(-5px, 6px);
+    transform: translate(-5px, 6px)
 }
 
 .toaster-theme-business .axis-y.left.no-line .tick text {
-    -webkit-transform: translate(0,6px);
-    transform: translate(0,6px)
+    -webkit-transform: translate(0, 6px);
+    transform: translate(0, 6px)
 }
 
 .toaster-theme-business .axis-y.left.vcenter .tick text {
-    -webkit-transform: translate(-5px,0);
-    transform: translate(-5px,0)
+    -webkit-transform: translate(-5px, 0);
+    transform: translate(-5px, 0)
 }
 
 .toaster-theme-business .axis-y.left.no-line.vcenter .tick text {
-    -webkit-transform: translate(0,0);
-    transform: translate(0,0)
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0)
 }
 
 .toaster-theme-business .axis-y.right .tick text {
-    -webkit-transform: translate(5px,6px);
-    transform: translate(5px,6px)
+    -webkit-transform: translate(5px, 6px);
+    transform: translate(5px, 6px)
 }
 
 .toaster-theme-business .axis-y.right.no-line .tick text {
-    -webkit-transform: translate(0,6px);
-    transform: translate(0,6px)
+    -webkit-transform: translate(0, 6px);
+    transform: translate(0, 6px)
 }
 
 .toaster-theme-business .axis-y.right.vcenter .tick text {
-    -webkit-transform: translate(5px,0);
-    transform: translate(5px,0)
+    -webkit-transform: translate(5px, 0);
+    transform: translate(5px, 0)
 }
 
 .toaster-theme-business .axis-y.right.no-line.vcenter .tick text {
-    -webkit-transform: translate(0,0);
-    transform: translate(0,0)
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0)
 }
 
-.toaster-theme-business .tick.hide-tick,.toaster-theme-business .tick.hide-text text,.toaster-theme-business .tick.hide-line1 .line1,.toaster-theme-business .tick.hide-line2 .line2,.toaster-theme-business .axis-x.axis-secondary .domain,.toaster-theme-business .axis-x.axis-secondary .tick line {
+.toaster-theme-business .tick.hide-tick,
+.toaster-theme-business .tick.hide-text text,
+.toaster-theme-business .tick.hide-line1 .line1,
+.toaster-theme-business .tick.hide-line2 .line2,
+.toaster-theme-business .axis-x.axis-secondary .domain,
+.toaster-theme-business .axis-x.axis-secondary .tick line {
     display: none
 }
 
@@ -574,11 +591,15 @@
     stroke: none
 }
 
-.toaster-theme-business .source,.toaster-theme-business .footnote,.toaster-theme-business .label-bottom,.toaster-theme-business .label-top {
+.toaster-theme-business .source,
+.toaster-theme-business .footnote,
+.toaster-theme-business .label-bottom,
+.toaster-theme-business .label-top {
     color: var(--text)
 }
 
-.toaster-theme-business .source,.toaster-theme-business .footnote {
+.toaster-theme-business .source,
+.toaster-theme-business .footnote {
     margin: 0
 }
 
@@ -600,7 +621,7 @@
 }
 
 .toaster-theme-business .annotations-footer {
-    font-family: "BWHaasDingbat","BWHaasText","Hiragino Kaku Gothic Pro","Noto Sans Japanese","Noto Sans Chinese",Arial,sans-serif;
+    font-family: "BWHaasDingbat", "BWHaasText", "Hiragino Kaku Gothic Pro", "Noto Sans Japanese", "Noto Sans Chinese", Arial, sans-serif;
     color: var(--text)
 }
 
@@ -616,7 +637,7 @@
     fill: var(--text)
 }
 
-.toaster-theme-business .axis-label-box > rect {
+.toaster-theme-business .axis-label-box>rect {
     fill: var(--bg)
 }
 
@@ -654,8 +675,8 @@
 .toaster-theme-business .simple-legend .swatch.line {
     width: 16px;
     height: 2.5px;
-    transform: rotate(-45deg) translate(8px,-1px);
-    -webkit-transform: rotate(-45deg) translate(8px,-1px);
+    transform: rotate(-45deg) translate(8px, -1px);
+    -webkit-transform: rotate(-45deg) translate(8px, -1px);
     margin-left: -8px;
     margin-right: 9px;
     margin-bottom: 0
@@ -690,11 +711,11 @@
     overflow: hidden
 }
 
-.toaster-theme-business.toaster-chart-spread > .chart {
+.toaster-theme-business.toaster-chart-spread>.chart {
     margin-top: 10px
 }
 
-.toaster-theme-business .spread > .title {
+.toaster-theme-business .spread>.title {
     margin-top: 6px;
     min-height: 34px;
     font-weight: 600;
@@ -709,28 +730,31 @@
     margin: 0
 }
 
-.toaster-theme-business .widget-mode .spread > .title,.toaster-theme-business .widget-mode .legend-container-outer {
+.toaster-theme-business .widget-mode .spread>.title,
+.toaster-theme-business .widget-mode .legend-container-outer {
     display: none
 }
 
-.toaster-theme-business.toaster-type-performanceChart .simple-line .line,.toaster-theme-business.toaster-type-performanceChart .simple-line .dashed-line {
+.toaster-theme-business.toaster-type-performanceChart .simple-line .line,
+.toaster-theme-business.toaster-type-performanceChart .simple-line .dashed-line {
     stroke-width: 2
 }
 
-.toaster-theme-business .spread > .score-title {
+.toaster-theme-business .spread>.score-title {
     color: var(--text)
 }
 
 .toaster-theme-business text.threshold-label {
     fill: var(--text);
-    text-shadow: -1px -1px 1px var(--bg),-1px -.5px 1px var(--bg),-1px 0 1px var(--bg),-1px .5px 1px var(--bg),-1px 1px 1px var(--bg),-.5px -1px 1px var(--bg),-.5px -.5px 1px var(--bg),-.5px 0 1px var(--bg),-.5px .5px 1px var(--bg),-.5px 1px 1px var(--bg),0 -.5px 1px var(--bg),0 -.5px 1px var(--bg),0 1px 1px var(--bg),0 1px 1px var(--bg),.5px -1px 1px var(--bg),.5px -.5px 1px var(--bg),.5px 0 1px var(--bg),.5px .5px 1px var(--bg),.5px 1px 1px var(--bg),1px -1px 1px var(--bg),1px -.5px 1px var(--bg),1px 0 1px var(--bg),1px .5px 1px var(--bg),1px 1px 1px var(--bg)
+    text-shadow: -1px -1px 1px var(--bg), -1px -.5px 1px var(--bg), -1px 0 1px var(--bg), -1px .5px 1px var(--bg), -1px 1px 1px var(--bg), -.5px -1px 1px var(--bg), -.5px -.5px 1px var(--bg), -.5px 0 1px var(--bg), -.5px .5px 1px var(--bg), -.5px 1px 1px var(--bg), 0 -.5px 1px var(--bg), 0 -.5px 1px var(--bg), 0 1px 1px var(--bg), 0 1px 1px var(--bg), .5px -1px 1px var(--bg), .5px -.5px 1px var(--bg), .5px 0 1px var(--bg), .5px .5px 1px var(--bg), .5px 1px 1px var(--bg), 1px -1px 1px var(--bg), 1px -.5px 1px var(--bg), 1px 0 1px var(--bg), 1px .5px 1px var(--bg), 1px 1px 1px var(--bg)
 }
 
 .toaster-theme-business .screenshot-mode text.threshold-label {
-    text-shadow: -2px -2px 2px var(--bg),-2px -1px 2px var(--bg),-2px 0 2px var(--bg),-2px 1px 2px var(--bg),-2px 2px 2px var(--bg),-1px -2px 2px var(--bg),-1px -1px 2px var(--bg),-1px 0 2px var(--bg),-1px 1px 2px var(--bg),-1px 2px 2px var(--bg),0 -2px 2px var(--bg),0 -1px 2px var(--bg),0 1px 2px var(--bg),0 2px 2px var(--bg),1px -2px 2px var(--bg),1px -1px 2px var(--bg),1px 0 2px var(--bg),1px 1px 2px var(--bg),1px 2px 2px var(--bg),2px -2px 2px var(--bg),2px -1px 2px var(--bg),2px 0 2px var(--bg),2px 1px 2px var(--bg),2px 2px 2px var(--bg)
+    text-shadow: -2px -2px 2px var(--bg), -2px -1px 2px var(--bg), -2px 0 2px var(--bg), -2px 1px 2px var(--bg), -2px 2px 2px var(--bg), -1px -2px 2px var(--bg), -1px -1px 2px var(--bg), -1px 0 2px var(--bg), -1px 1px 2px var(--bg), -1px 2px 2px var(--bg), 0 -2px 2px var(--bg), 0 -1px 2px var(--bg), 0 1px 2px var(--bg), 0 2px 2px var(--bg), 1px -2px 2px var(--bg), 1px -1px 2px var(--bg), 1px 0 2px var(--bg), 1px 1px 2px var(--bg), 1px 2px 2px var(--bg), 2px -2px 2px var(--bg), 2px -1px 2px var(--bg), 2px 0 2px var(--bg), 2px 1px 2px var(--bg), 2px 2px 2px var(--bg)
 }
 
-.toaster-theme-business text.threshold-label.disable-shadow,.toaster-theme-business .screenshot-mode text.threshold-label.disable-shadow {
+.toaster-theme-business text.threshold-label.disable-shadow,
+.toaster-theme-business .screenshot-mode text.threshold-label.disable-shadow {
     text-shadow: none
 }
 
@@ -747,11 +771,11 @@
 }
 
 .toaster-theme-business span.highlight-range-legend {
-    background-color: rgba(150,150,150,0.35)
+    background-color: rgba(150, 150, 150, 0.35)
 }
 
-.toaster-theme-business .highlight-ranges > .range-highlight {
-    fill: rgba(150,150,150,0.35)
+.toaster-theme-business .highlight-ranges>.range-highlight {
+    fill: rgba(150, 150, 150, 0.35)
 }
 
 .toaster-theme-business .perf-group path {
@@ -878,7 +902,8 @@
     font-size: 28px
 }
 
-.toaster-theme-business .bg.series-0,.toaster-theme-business .series-0 {
+.toaster-theme-business .bg.series-0,
+.toaster-theme-business .series-0 {
     background-color: var(--text)
 }
 
@@ -886,15 +911,18 @@
     color: var(--text)
 }
 
-.toaster-theme-business .f.series-0,.toaster-theme-business .line-area.series-0 {
+.toaster-theme-business .f.series-0,
+.toaster-theme-business .line-area.series-0 {
     fill: var(--text)
 }
 
-.toaster-theme-business .s.series-0,.toaster-theme-business .series-0-stroke {
+.toaster-theme-business .s.series-0,
+.toaster-theme-business .series-0-stroke {
     stroke: var(--text)
 }
 
-.toaster-theme-business .bg.series-1,.toaster-theme-business .series-1 {
+.toaster-theme-business .bg.series-1,
+.toaster-theme-business .series-1 {
     background-color: #ff008c
 }
 
@@ -902,15 +930,18 @@
     color: #ff008c
 }
 
-.toaster-theme-business .f.series-1,.toaster-theme-business .line-area.series-1 {
+.toaster-theme-business .f.series-1,
+.toaster-theme-business .line-area.series-1 {
     fill: #ff008c
 }
 
-.toaster-theme-business .s.series-1,.toaster-theme-business .series-1-stroke {
+.toaster-theme-business .s.series-1,
+.toaster-theme-business .series-1-stroke {
     stroke: #ff008c
 }
 
-.toaster-theme-business .bg.series-2,.toaster-theme-business .series-2 {
+.toaster-theme-business .bg.series-2,
+.toaster-theme-business .series-2 {
     background-color: #999
 }
 
@@ -918,15 +949,18 @@
     color: #999
 }
 
-.toaster-theme-business .f.series-2,.toaster-theme-business .line-area.series-2 {
+.toaster-theme-business .f.series-2,
+.toaster-theme-business .line-area.series-2 {
     fill: #999
 }
 
-.toaster-theme-business .s.series-2,.toaster-theme-business .series-2-stroke {
+.toaster-theme-business .s.series-2,
+.toaster-theme-business .series-2-stroke {
     stroke: #999
 }
 
-.toaster-theme-business .bg.series-3,.toaster-theme-business .series-3 {
+.toaster-theme-business .bg.series-3,
+.toaster-theme-business .series-3 {
     background-color: #00aeff
 }
 
@@ -934,15 +968,18 @@
     color: #00aeff
 }
 
-.toaster-theme-business .f.series-3,.toaster-theme-business .line-area.series-3 {
+.toaster-theme-business .f.series-3,
+.toaster-theme-business .line-area.series-3 {
     fill: #00aeff
 }
 
-.toaster-theme-business .s.series-3,.toaster-theme-business .series-3-stroke {
+.toaster-theme-business .s.series-3,
+.toaster-theme-business .series-3-stroke {
     stroke: #00aeff
 }
 
-.toaster-theme-business .bg.series-4,.toaster-theme-business .series-4 {
+.toaster-theme-business .bg.series-4,
+.toaster-theme-business .series-4 {
     background-color: #ffc400
 }
 
@@ -950,15 +987,18 @@
     color: #ffc400
 }
 
-.toaster-theme-business .f.series-4,.toaster-theme-business .line-area.series-4 {
+.toaster-theme-business .f.series-4,
+.toaster-theme-business .line-area.series-4 {
     fill: #ffc400
 }
 
-.toaster-theme-business .s.series-4,.toaster-theme-business .series-4-stroke {
+.toaster-theme-business .s.series-4,
+.toaster-theme-business .series-4-stroke {
     stroke: #ffc400
 }
 
-.toaster-theme-business .bg.series-5,.toaster-theme-business .series-5 {
+.toaster-theme-business .bg.series-5,
+.toaster-theme-business .series-5 {
     background-color: #3ef794
 }
 
@@ -966,15 +1006,18 @@
     color: #3ef794
 }
 
-.toaster-theme-business .f.series-5,.toaster-theme-business .line-area.series-5 {
+.toaster-theme-business .f.series-5,
+.toaster-theme-business .line-area.series-5 {
     fill: #3ef794
 }
 
-.toaster-theme-business .s.series-5,.toaster-theme-business .series-5-stroke {
+.toaster-theme-business .s.series-5,
+.toaster-theme-business .series-5-stroke {
     stroke: #3ef794
 }
 
-.toaster-theme-business .bg.series-6,.toaster-theme-business .series-6 {
+.toaster-theme-business .bg.series-6,
+.toaster-theme-business .series-6 {
     background-color: #0037ff
 }
 
@@ -982,15 +1025,18 @@
     color: #0037ff
 }
 
-.toaster-theme-business .f.series-6,.toaster-theme-business .line-area.series-6 {
+.toaster-theme-business .f.series-6,
+.toaster-theme-business .line-area.series-6 {
     fill: #0037ff
 }
 
-.toaster-theme-business .s.series-6,.toaster-theme-business .series-6-stroke {
+.toaster-theme-business .s.series-6,
+.toaster-theme-business .series-6-stroke {
     stroke: #0037ff
 }
 
-.toaster-theme-business .bg.series-7,.toaster-theme-business .series-7 {
+.toaster-theme-business .bg.series-7,
+.toaster-theme-business .series-7 {
     background-color: #00ff2a
 }
 
@@ -998,15 +1044,18 @@
     color: #00ff2a
 }
 
-.toaster-theme-business .f.series-7,.toaster-theme-business .line-area.series-7 {
+.toaster-theme-business .f.series-7,
+.toaster-theme-business .line-area.series-7 {
     fill: #00ff2a
 }
 
-.toaster-theme-business .s.series-7,.toaster-theme-business .series-7-stroke {
+.toaster-theme-business .s.series-7,
+.toaster-theme-business .series-7-stroke {
     stroke: #00ff2a
 }
 
-.toaster-theme-business .bg.series-8,.toaster-theme-business .series-8 {
+.toaster-theme-business .bg.series-8,
+.toaster-theme-business .series-8 {
     background-color: #b5cec8
 }
 
@@ -1014,15 +1063,18 @@
     color: #b5cec8
 }
 
-.toaster-theme-business .f.series-8,.toaster-theme-business .line-area.series-8 {
+.toaster-theme-business .f.series-8,
+.toaster-theme-business .line-area.series-8 {
     fill: #b5cec8
 }
 
-.toaster-theme-business .s.series-8,.toaster-theme-business .series-8-stroke {
+.toaster-theme-business .s.series-8,
+.toaster-theme-business .series-8-stroke {
     stroke: #b5cec8
 }
 
-.toaster-theme-business .bg.series-9,.toaster-theme-business .series-9 {
+.toaster-theme-business .bg.series-9,
+.toaster-theme-business .series-9 {
     background-color: #c5c2d2
 }
 
@@ -1030,15 +1082,18 @@
     color: #c5c2d2
 }
 
-.toaster-theme-business .f.series-9,.toaster-theme-business .line-area.series-9 {
+.toaster-theme-business .f.series-9,
+.toaster-theme-business .line-area.series-9 {
     fill: #c5c2d2
 }
 
-.toaster-theme-business .s.series-9,.toaster-theme-business .series-9-stroke {
+.toaster-theme-business .s.series-9,
+.toaster-theme-business .series-9-stroke {
     stroke: #c5c2d2
 }
 
-.toaster-theme-business .highlight,.toaster-theme-business .f.highlight {
+.toaster-theme-business .highlight,
+.toaster-theme-business .f.highlight {
     fill: #00aeff
 }
 
@@ -1046,43 +1101,53 @@
     background-color: #00aeff
 }
 
-.toaster-theme-business.bar-colors .bg.series-0,.toaster-theme-business.bar-colors .series-0 {
-    background-color: var(--text)
+.toaster-theme-business.bar-colors .bg.series-0,
+.toaster-theme-business.bar-colors .series-0 {
+    background-color: var(--head)
 }
 
-.toaster-theme-business.bar-colors .bg.series-1,.toaster-theme-business.bar-colors .series-1 {
+.toaster-theme-business.bar-colors .bg.series-1,
+.toaster-theme-business.bar-colors .series-1 {
     background-color: #00aeff
 }
 
-.toaster-theme-business.bar-colors .bg.series-2,.toaster-theme-business.bar-colors .series-2 {
+.toaster-theme-business.bar-colors .bg.series-2,
+.toaster-theme-business.bar-colors .series-2 {
     background-color: #ccc
 }
 
-.toaster-theme-business.bar-colors .bg.series-3,.toaster-theme-business.bar-colors .series-3 {
+.toaster-theme-business.bar-colors .bg.series-3,
+.toaster-theme-business.bar-colors .series-3 {
     background-color: #ff008c
 }
 
-.toaster-theme-business.bar-colors .bg.series-4,.toaster-theme-business.bar-colors .series-4 {
+.toaster-theme-business.bar-colors .bg.series-4,
+.toaster-theme-business.bar-colors .series-4 {
     background-color: #ffc400
 }
 
-.toaster-theme-business.bar-colors .bg.series-5,.toaster-theme-business.bar-colors .series-5 {
+.toaster-theme-business.bar-colors .bg.series-5,
+.toaster-theme-business.bar-colors .series-5 {
     background-color: #3ef794
 }
 
-.toaster-theme-business.bar-colors .bg.series-6,.toaster-theme-business.bar-colors .series-6 {
+.toaster-theme-business.bar-colors .bg.series-6,
+.toaster-theme-business.bar-colors .series-6 {
     background-color: #0037ff
 }
 
-.toaster-theme-business.bar-colors .bg.series-7,.toaster-theme-business.bar-colors .series-7 {
+.toaster-theme-business.bar-colors .bg.series-7,
+.toaster-theme-business.bar-colors .series-7 {
     background-color: #00ff2a
 }
 
-.toaster-theme-business.bar-colors .bg.series-8,.toaster-theme-business.bar-colors .series-8 {
+.toaster-theme-business.bar-colors .bg.series-8,
+.toaster-theme-business.bar-colors .series-8 {
     background-color: #b5cec8
 }
 
-.toaster-theme-business.bar-colors .bg.series-9,.toaster-theme-business.bar-colors .series-9 {
+.toaster-theme-business.bar-colors .bg.series-9,
+.toaster-theme-business.bar-colors .series-9 {
     background-color: #c5c2d2
 }
 
@@ -1126,103 +1191,128 @@
     color: #c5c2d2
 }
 
-.toaster-theme-business.bar-colors .f.series-0,.toaster-theme-business.bar-colors .line-area.series-0 {
+.toaster-theme-business.bar-colors .f.series-0,
+.toaster-theme-business.bar-colors .line-area.series-0 {
     fill: var(--text)
 }
 
-.toaster-theme-business.bar-colors .f.series-1,.toaster-theme-business.bar-colors .line-area.series-1 {
+.toaster-theme-business.bar-colors .f.series-1,
+.toaster-theme-business.bar-colors .line-area.series-1 {
     fill: #00aeff
 }
 
-.toaster-theme-business.bar-colors .f.series-2,.toaster-theme-business.bar-colors .line-area.series-2 {
+.toaster-theme-business.bar-colors .f.series-2,
+.toaster-theme-business.bar-colors .line-area.series-2 {
     fill: #ccc
 }
 
-.toaster-theme-business.bar-colors .f.series-3,.toaster-theme-business.bar-colors .line-area.series-3 {
+.toaster-theme-business.bar-colors .f.series-3,
+.toaster-theme-business.bar-colors .line-area.series-3 {
     fill: #ff008c
 }
 
-.toaster-theme-business.bar-colors .f.series-4,.toaster-theme-business.bar-colors .line-area.series-4 {
+.toaster-theme-business.bar-colors .f.series-4,
+.toaster-theme-business.bar-colors .line-area.series-4 {
     fill: #ffc400
 }
 
-.toaster-theme-business.bar-colors .f.series-5,.toaster-theme-business.bar-colors .line-area.series-5 {
+.toaster-theme-business.bar-colors .f.series-5,
+.toaster-theme-business.bar-colors .line-area.series-5 {
     fill: #3ef794
 }
 
-.toaster-theme-business.bar-colors .f.series-6,.toaster-theme-business.bar-colors .line-area.series-6 {
+.toaster-theme-business.bar-colors .f.series-6,
+.toaster-theme-business.bar-colors .line-area.series-6 {
     fill: #0037ff
 }
 
-.toaster-theme-business.bar-colors .f.series-7,.toaster-theme-business.bar-colors .line-area.series-7 {
+.toaster-theme-business.bar-colors .f.series-7,
+.toaster-theme-business.bar-colors .line-area.series-7 {
     fill: #00ff2a
 }
 
-.toaster-theme-business.bar-colors .f.series-8,.toaster-theme-business.bar-colors .line-area.series-8 {
+.toaster-theme-business.bar-colors .f.series-8,
+.toaster-theme-business.bar-colors .line-area.series-8 {
     fill: #b5cec8
 }
 
-.toaster-theme-business.bar-colors .f.series-9,.toaster-theme-business.bar-colors .line-area.series-9 {
+.toaster-theme-business.bar-colors .f.series-9,
+.toaster-theme-business.bar-colors .line-area.series-9 {
     fill: #c5c2d2
 }
 
-.toaster-theme-business.bar-colors .s.series-0,.toaster-theme-business.bar-colors .series-0-stroke {
-    stroke: var(--text)
+.toaster-theme-business.bar-colors .s.series-0,
+.toaster-theme-business.bar-colors .series-0-stroke {
+    stroke: var(--head)
 }
 
-.toaster-theme-business.bar-colors .s.series-1,.toaster-theme-business.bar-colors .series-1-stroke {
+.toaster-theme-business.bar-colors .s.series-1,
+.toaster-theme-business.bar-colors .series-1-stroke {
     stroke: #00aeff
 }
 
-.toaster-theme-business.bar-colors .s.series-2,.toaster-theme-business.bar-colors .series-2-stroke {
+.toaster-theme-business.bar-colors .s.series-2,
+.toaster-theme-business.bar-colors .series-2-stroke {
     stroke: #ccc
 }
 
-.toaster-theme-business.bar-colors .s.series-3,.toaster-theme-business.bar-colors .series-3-stroke {
+.toaster-theme-business.bar-colors .s.series-3,
+.toaster-theme-business.bar-colors .series-3-stroke {
     stroke: #ff008c
 }
 
-.toaster-theme-business.bar-colors .s.series-4,.toaster-theme-business.bar-colors .series-4-stroke {
+.toaster-theme-business.bar-colors .s.series-4,
+.toaster-theme-business.bar-colors .series-4-stroke {
     stroke: #ffc400
 }
 
-.toaster-theme-business.bar-colors .s.series-5,.toaster-theme-business.bar-colors .series-5-stroke {
+.toaster-theme-business.bar-colors .s.series-5,
+.toaster-theme-business.bar-colors .series-5-stroke {
     stroke: #3ef794
 }
 
-.toaster-theme-business.bar-colors .s.series-6,.toaster-theme-business.bar-colors .series-6-stroke {
+.toaster-theme-business.bar-colors .s.series-6,
+.toaster-theme-business.bar-colors .series-6-stroke {
     stroke: #0037ff
 }
 
-.toaster-theme-business.bar-colors .s.series-7,.toaster-theme-business.bar-colors .series-7-stroke {
+.toaster-theme-business.bar-colors .s.series-7,
+.toaster-theme-business.bar-colors .series-7-stroke {
     stroke: #00ff2a
 }
 
-.toaster-theme-business.bar-colors .s.series-8,.toaster-theme-business.bar-colors .series-8-stroke {
+.toaster-theme-business.bar-colors .s.series-8,
+.toaster-theme-business.bar-colors .series-8-stroke {
     stroke: #b5cec8
 }
 
-.toaster-theme-business.bar-colors .s.series-9,.toaster-theme-business.bar-colors .series-9-stroke {
+.toaster-theme-business.bar-colors .s.series-9,
+.toaster-theme-business.bar-colors .series-9-stroke {
     stroke: #c5c2d2
 }
 
-.toaster-theme-business.bar-colors .highlight,.toaster-theme-business.bar-colors .f.highlight {
+.toaster-theme-business.bar-colors .highlight,
+.toaster-theme-business.bar-colors .f.highlight {
     fill: #00aeff
 }
 
-.toaster-theme-business.quad-colors .bg.series-0,.toaster-theme-business.quad-colors .series-0 {
+.toaster-theme-business.quad-colors .bg.series-0,
+.toaster-theme-business.quad-colors .series-0 {
     background-color: var(--text)
 }
 
-.toaster-theme-business.quad-colors .bg.series-1,.toaster-theme-business.quad-colors .series-1 {
+.toaster-theme-business.quad-colors .bg.series-1,
+.toaster-theme-business.quad-colors .series-1 {
     background-color: #ff008c
 }
 
-.toaster-theme-business.quad-colors .bg.series-2,.toaster-theme-business.quad-colors .series-2 {
+.toaster-theme-business.quad-colors .bg.series-2,
+.toaster-theme-business.quad-colors .series-2 {
     background-color: #00aeff
 }
 
-.toaster-theme-business.quad-colors .bg.series-3,.toaster-theme-business.quad-colors .series-3 {
+.toaster-theme-business.quad-colors .bg.series-3,
+.toaster-theme-business.quad-colors .series-3 {
     background-color: #ffc400
 }
 
@@ -1242,79 +1332,98 @@
     color: #ffc400
 }
 
-.toaster-theme-business.quad-colors .f.series-0,.toaster-theme-business.quad-colors .line-area.series-0 {
+.toaster-theme-business.quad-colors .f.series-0,
+.toaster-theme-business.quad-colors .line-area.series-0 {
     fill: var(--head)
 }
 
-.toaster-theme-business.quad-colors .f.series-1,.toaster-theme-business.quad-colors .line-area.series-1 {
+.toaster-theme-business.quad-colors .f.series-1,
+.toaster-theme-business.quad-colors .line-area.series-1 {
     fill: #ff008c
 }
 
-.toaster-theme-business.quad-colors .f.series-2,.toaster-theme-business.quad-colors .line-area.series-2 {
+.toaster-theme-business.quad-colors .f.series-2,
+.toaster-theme-business.quad-colors .line-area.series-2 {
     fill: #00aeff
 }
 
-.toaster-theme-business.quad-colors .f.series-3,.toaster-theme-business.quad-colors .line-area.series-3 {
+.toaster-theme-business.quad-colors .f.series-3,
+.toaster-theme-business.quad-colors .line-area.series-3 {
     fill: #ffc400
 }
 
-.toaster-theme-business.quad-colors .s.series-0,.toaster-theme-business.quad-colors .series-0-stroke {
+.toaster-theme-business.quad-colors .s.series-0,
+.toaster-theme-business.quad-colors .series-0-stroke {
     stroke: var(--text)
 }
 
-.toaster-theme-business.quad-colors .s.series-1,.toaster-theme-business.quad-colors .series-1-stroke {
+.toaster-theme-business.quad-colors .s.series-1,
+.toaster-theme-business.quad-colors .series-1-stroke {
     stroke: #ff008c
 }
 
-.toaster-theme-business.quad-colors .s.series-2,.toaster-theme-business.quad-colors .series-2-stroke {
+.toaster-theme-business.quad-colors .s.series-2,
+.toaster-theme-business.quad-colors .series-2-stroke {
     stroke: #00aeff
 }
 
-.toaster-theme-business.quad-colors .s.series-3,.toaster-theme-business.quad-colors .series-3-stroke {
+.toaster-theme-business.quad-colors .s.series-3,
+.toaster-theme-business.quad-colors .series-3-stroke {
     stroke: #ffc400
 }
 
-.toaster-theme-business.quad-colors .highlight,.toaster-theme-business.quad-colors .f.highlight {
+.toaster-theme-business.quad-colors .highlight,
+.toaster-theme-business.quad-colors .f.highlight {
     fill: #00aeff
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-0,.toaster-theme-business.pie-colors .not-highlighted .series-0 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-0,
+.toaster-theme-business.pie-colors .not-highlighted .series-0 {
     background-color: var(--text)
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-1,.toaster-theme-business.pie-colors .not-highlighted .series-1 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-1,
+.toaster-theme-business.pie-colors .not-highlighted .series-1 {
     background-color: #ff008c
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-2,.toaster-theme-business.pie-colors .not-highlighted .series-2 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-2,
+.toaster-theme-business.pie-colors .not-highlighted .series-2 {
     background-color: #999
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-3,.toaster-theme-business.pie-colors .not-highlighted .series-3 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-3,
+.toaster-theme-business.pie-colors .not-highlighted .series-3 {
     background-color: #00aeff
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-4,.toaster-theme-business.pie-colors .not-highlighted .series-4 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-4,
+.toaster-theme-business.pie-colors .not-highlighted .series-4 {
     background-color: #ffc400
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-5,.toaster-theme-business.pie-colors .not-highlighted .series-5 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-5,
+.toaster-theme-business.pie-colors .not-highlighted .series-5 {
     background-color: #3ef794
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-6,.toaster-theme-business.pie-colors .not-highlighted .series-6 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-6,
+.toaster-theme-business.pie-colors .not-highlighted .series-6 {
     background-color: #0037ff
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-7,.toaster-theme-business.pie-colors .not-highlighted .series-7 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-7,
+.toaster-theme-business.pie-colors .not-highlighted .series-7 {
     background-color: #00ff2a
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-8,.toaster-theme-business.pie-colors .not-highlighted .series-8 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-8,
+.toaster-theme-business.pie-colors .not-highlighted .series-8 {
     background-color: #b5cec8
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .bg.series-9,.toaster-theme-business.pie-colors .not-highlighted .series-9 {
+.toaster-theme-business.pie-colors .not-highlighted .bg.series-9,
+.toaster-theme-business.pie-colors .not-highlighted .series-9 {
     background-color: #c5c2d2
 }
 
@@ -1358,83 +1467,103 @@
     color: #c5c2d2
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-0,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-0 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-0,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-0 {
     fill: var(--text)
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-1,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-1 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-1,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-1 {
     fill: #ff008c
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-2,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-2 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-2,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-2 {
     fill: #999
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-3,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-3 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-3,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-3 {
     fill: #00aeff
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-4,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-4 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-4,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-4 {
     fill: #ffc400
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-5,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-5 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-5,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-5 {
     fill: #3ef794
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-6,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-6 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-6,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-6 {
     fill: #0037ff
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-7,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-7 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-7,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-7 {
     fill: #00ff2a
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-8,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-8 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-8,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-8 {
     fill: #b5cec8
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .f.series-9,.toaster-theme-business.pie-colors .not-highlighted .line-area.series-9 {
+.toaster-theme-business.pie-colors .not-highlighted .f.series-9,
+.toaster-theme-business.pie-colors .not-highlighted .line-area.series-9 {
     fill: #c5c2d2
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-0,.toaster-theme-business.pie-colors .not-highlighted .series-0-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-0,
+.toaster-theme-business.pie-colors .not-highlighted .series-0-stroke {
     stroke: var(--text)
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-1,.toaster-theme-business.pie-colors .not-highlighted .series-1-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-1,
+.toaster-theme-business.pie-colors .not-highlighted .series-1-stroke {
     stroke: #ff008c
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-2,.toaster-theme-business.pie-colors .not-highlighted .series-2-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-2,
+.toaster-theme-business.pie-colors .not-highlighted .series-2-stroke {
     stroke: #999
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-3,.toaster-theme-business.pie-colors .not-highlighted .series-3-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-3,
+.toaster-theme-business.pie-colors .not-highlighted .series-3-stroke {
     stroke: #00aeff
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-4,.toaster-theme-business.pie-colors .not-highlighted .series-4-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-4,
+.toaster-theme-business.pie-colors .not-highlighted .series-4-stroke {
     stroke: #ffc400
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-5,.toaster-theme-business.pie-colors .not-highlighted .series-5-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-5,
+.toaster-theme-business.pie-colors .not-highlighted .series-5-stroke {
     stroke: #3ef794
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-6,.toaster-theme-business.pie-colors .not-highlighted .series-6-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-6,
+.toaster-theme-business.pie-colors .not-highlighted .series-6-stroke {
     stroke: #0037ff
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-7,.toaster-theme-business.pie-colors .not-highlighted .series-7-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-7,
+.toaster-theme-business.pie-colors .not-highlighted .series-7-stroke {
     stroke: #00ff2a
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-8,.toaster-theme-business.pie-colors .not-highlighted .series-8-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-8,
+.toaster-theme-business.pie-colors .not-highlighted .series-8-stroke {
     stroke: #b5cec8
 }
 
-.toaster-theme-business.pie-colors .not-highlighted .s.series-9,.toaster-theme-business.pie-colors .not-highlighted .series-9-stroke {
+.toaster-theme-business.pie-colors .not-highlighted .s.series-9,
+.toaster-theme-business.pie-colors .not-highlighted .series-9-stroke {
     stroke: #c5c2d2
 }
 
@@ -1442,47 +1571,58 @@
     fill: var(--text)
 }
 
-.toaster-theme-business.pie-colors .highlight,.toaster-theme-business.pie-colors .f.highlight {
+.toaster-theme-business.pie-colors .highlight,
+.toaster-theme-business.pie-colors .f.highlight {
     fill: #00aeff
 }
 
-.toaster-theme-business.area-colors .bg.series-0,.toaster-theme-business.area-colors .series-0 {
+.toaster-theme-business.area-colors .bg.series-0,
+.toaster-theme-business.area-colors .series-0 {
     background-color: var(--text)
 }
 
-.toaster-theme-business.area-colors .bg.series-1,.toaster-theme-business.area-colors .series-1 {
+.toaster-theme-business.area-colors .bg.series-1,
+.toaster-theme-business.area-colors .series-1 {
     background-color: #00aeff
 }
 
-.toaster-theme-business.area-colors .bg.series-2,.toaster-theme-business.area-colors .series-2 {
+.toaster-theme-business.area-colors .bg.series-2,
+.toaster-theme-business.area-colors .series-2 {
     background-color: #ccc
 }
 
-.toaster-theme-business.area-colors .bg.series-3,.toaster-theme-business.area-colors .series-3 {
+.toaster-theme-business.area-colors .bg.series-3,
+.toaster-theme-business.area-colors .series-3 {
     background-color: #ff008c
 }
 
-.toaster-theme-business.area-colors .bg.series-4,.toaster-theme-business.area-colors .series-4 {
+.toaster-theme-business.area-colors .bg.series-4,
+.toaster-theme-business.area-colors .series-4 {
     background-color: #ffc400
 }
 
-.toaster-theme-business.area-colors .bg.series-5,.toaster-theme-business.area-colors .series-5 {
+.toaster-theme-business.area-colors .bg.series-5,
+.toaster-theme-business.area-colors .series-5 {
     background-color: #3ef794
 }
 
-.toaster-theme-business.area-colors .bg.series-6,.toaster-theme-business.area-colors .series-6 {
+.toaster-theme-business.area-colors .bg.series-6,
+.toaster-theme-business.area-colors .series-6 {
     background-color: #0037ff
 }
 
-.toaster-theme-business.area-colors .bg.series-7,.toaster-theme-business.area-colors .series-7 {
+.toaster-theme-business.area-colors .bg.series-7,
+.toaster-theme-business.area-colors .series-7 {
     background-color: #00ff2a
 }
 
-.toaster-theme-business.area-colors .bg.series-8,.toaster-theme-business.area-colors .series-8 {
+.toaster-theme-business.area-colors .bg.series-8,
+.toaster-theme-business.area-colors .series-8 {
     background-color: #b5cec8
 }
 
-.toaster-theme-business.area-colors .bg.series-9,.toaster-theme-business.area-colors .series-9 {
+.toaster-theme-business.area-colors .bg.series-9,
+.toaster-theme-business.area-colors .series-9 {
     background-color: #c5c2d2
 }
 
@@ -1526,83 +1666,103 @@
     color: #c5c2d2
 }
 
-.toaster-theme-business.area-colors .f.series-0,.toaster-theme-business.area-colors .line-area.series-0 {
+.toaster-theme-business.area-colors .f.series-0,
+.toaster-theme-business.area-colors .line-area.series-0 {
     fill: var(--text)
 }
 
-.toaster-theme-business.area-colors .f.series-1,.toaster-theme-business.area-colors .line-area.series-1 {
+.toaster-theme-business.area-colors .f.series-1,
+.toaster-theme-business.area-colors .line-area.series-1 {
     fill: #00aeff
 }
 
-.toaster-theme-business.area-colors .f.series-2,.toaster-theme-business.area-colors .line-area.series-2 {
+.toaster-theme-business.area-colors .f.series-2,
+.toaster-theme-business.area-colors .line-area.series-2 {
     fill: #ccc
 }
 
-.toaster-theme-business.area-colors .f.series-3,.toaster-theme-business.area-colors .line-area.series-3 {
+.toaster-theme-business.area-colors .f.series-3,
+.toaster-theme-business.area-colors .line-area.series-3 {
     fill: #ff008c
 }
 
-.toaster-theme-business.area-colors .f.series-4,.toaster-theme-business.area-colors .line-area.series-4 {
+.toaster-theme-business.area-colors .f.series-4,
+.toaster-theme-business.area-colors .line-area.series-4 {
     fill: #ffc400
 }
 
-.toaster-theme-business.area-colors .f.series-5,.toaster-theme-business.area-colors .line-area.series-5 {
+.toaster-theme-business.area-colors .f.series-5,
+.toaster-theme-business.area-colors .line-area.series-5 {
     fill: #3ef794
 }
 
-.toaster-theme-business.area-colors .f.series-6,.toaster-theme-business.area-colors .line-area.series-6 {
+.toaster-theme-business.area-colors .f.series-6,
+.toaster-theme-business.area-colors .line-area.series-6 {
     fill: #0037ff
 }
 
-.toaster-theme-business.area-colors .f.series-7,.toaster-theme-business.area-colors .line-area.series-7 {
+.toaster-theme-business.area-colors .f.series-7,
+.toaster-theme-business.area-colors .line-area.series-7 {
     fill: #00ff2a
 }
 
-.toaster-theme-business.area-colors .f.series-8,.toaster-theme-business.area-colors .line-area.series-8 {
+.toaster-theme-business.area-colors .f.series-8,
+.toaster-theme-business.area-colors .line-area.series-8 {
     fill: #b5cec8
 }
 
-.toaster-theme-business.area-colors .f.series-9,.toaster-theme-business.area-colors .line-area.series-9 {
+.toaster-theme-business.area-colors .f.series-9,
+.toaster-theme-business.area-colors .line-area.series-9 {
     fill: #c5c2d2
 }
 
-.toaster-theme-business.area-colors .s.series-0,.toaster-theme-business.area-colors .series-0-stroke {
+.toaster-theme-business.area-colors .s.series-0,
+.toaster-theme-business.area-colors .series-0-stroke {
     stroke: var(--text)
 }
 
-.toaster-theme-business.area-colors .s.series-1,.toaster-theme-business.area-colors .series-1-stroke {
+.toaster-theme-business.area-colors .s.series-1,
+.toaster-theme-business.area-colors .series-1-stroke {
     stroke: #00aeff
 }
 
-.toaster-theme-business.area-colors .s.series-2,.toaster-theme-business.area-colors .series-2-stroke {
+.toaster-theme-business.area-colors .s.series-2,
+.toaster-theme-business.area-colors .series-2-stroke {
     stroke: #ccc
 }
 
-.toaster-theme-business.area-colors .s.series-3,.toaster-theme-business.area-colors .series-3-stroke {
+.toaster-theme-business.area-colors .s.series-3,
+.toaster-theme-business.area-colors .series-3-stroke {
     stroke: #ff008c
 }
 
-.toaster-theme-business.area-colors .s.series-4,.toaster-theme-business.area-colors .series-4-stroke {
+.toaster-theme-business.area-colors .s.series-4,
+.toaster-theme-business.area-colors .series-4-stroke {
     stroke: #ffc400
 }
 
-.toaster-theme-business.area-colors .s.series-5,.toaster-theme-business.area-colors .series-5-stroke {
+.toaster-theme-business.area-colors .s.series-5,
+.toaster-theme-business.area-colors .series-5-stroke {
     stroke: #3ef794
 }
 
-.toaster-theme-business.area-colors .s.series-6,.toaster-theme-business.area-colors .series-6-stroke {
+.toaster-theme-business.area-colors .s.series-6,
+.toaster-theme-business.area-colors .series-6-stroke {
     stroke: #0037ff
 }
 
-.toaster-theme-business.area-colors .s.series-7,.toaster-theme-business.area-colors .series-7-stroke {
+.toaster-theme-business.area-colors .s.series-7,
+.toaster-theme-business.area-colors .series-7-stroke {
     stroke: #00ff2a
 }
 
-.toaster-theme-business.area-colors .s.series-8,.toaster-theme-business.area-colors .series-8-stroke {
+.toaster-theme-business.area-colors .s.series-8,
+.toaster-theme-business.area-colors .series-8-stroke {
     stroke: #b5cec8
 }
 
-.toaster-theme-business.area-colors .s.series-9,.toaster-theme-business.area-colors .series-9-stroke {
+.toaster-theme-business.area-colors .s.series-9,
+.toaster-theme-business.area-colors .series-9-stroke {
     stroke: #c5c2d2
 }
 
@@ -1618,7 +1778,8 @@
     fill: var(--text)
 }
 
-.toaster-theme-business .simple-line .line,.toaster-theme-business .simple-line .dashed-line {
+.toaster-theme-business .simple-line .line,
+.toaster-theme-business .simple-line .dashed-line {
     fill: none;
     stroke-width: 3;
     stroke-linejoin: round;
@@ -1633,7 +1794,8 @@
     stroke-dasharray: none
 }
 
-.toaster-theme-business.toaster-chart-barline .simple-line .line,.toaster-theme-business.toaster-chart-barline .simple-line .dashed-line {
+.toaster-theme-business.toaster-chart-barline .simple-line .line,
+.toaster-theme-business.toaster-chart-barline .simple-line .dashed-line {
     stroke-width: 4
 }
 
@@ -1681,24 +1843,33 @@
     stroke-width: 2px
 }
 
-.toaster-theme-business .simple-table,.toaster-theme-business .simple-table-mobile {
+.toaster-theme-business .simple-table,
+.toaster-theme-business .simple-table-mobile {
     display: table;
     border-collapse: collapse
 }
 
-.toaster-theme-business .simple-table tr.hidden,.toaster-theme-business .simple-table-mobile tr.hidden {
+.toaster-theme-business .simple-table tr.hidden,
+.toaster-theme-business .simple-table-mobile tr.hidden {
     display: none
 }
 
-.toaster-theme-business .simple-table .simple-table-expand,.toaster-theme-business .simple-table-mobile .simple-table-expand {
+.toaster-theme-business .simple-table .simple-table-expand,
+.toaster-theme-business .simple-table-mobile .simple-table-expand {
     cursor: pointer
 }
 
-.toaster-theme-business .simple-table .numeric,.toaster-theme-business .simple-table-mobile .numeric,.toaster-theme-business .simple-table .percent,.toaster-theme-business .simple-table-mobile .percent {
+.toaster-theme-business .simple-table .numeric,
+.toaster-theme-business .simple-table-mobile .numeric,
+.toaster-theme-business .simple-table .percent,
+.toaster-theme-business .simple-table-mobile .percent {
     text-align: right
 }
 
-.toaster-theme-business .simple-table tbody .numeric,.toaster-theme-business .simple-table-mobile tbody .numeric,.toaster-theme-business .simple-table tbody .percent,.toaster-theme-business .simple-table-mobile tbody .percent {
+.toaster-theme-business .simple-table tbody .numeric,
+.toaster-theme-business .simple-table-mobile tbody .numeric,
+.toaster-theme-business .simple-table tbody .percent,
+.toaster-theme-business .simple-table-mobile tbody .percent {
     -webkit-font-feature-settings: "tnum";
     font-feature-settings: "tnum"
 }
@@ -1707,7 +1878,8 @@
     margin: 8px 0
 }
 
-.toaster-theme-business .simple-table th,.toaster-theme-business .simple-table td {
+.toaster-theme-business .simple-table th,
+.toaster-theme-business .simple-table td {
     border: 1px solid #ddd;
     padding: 2px 4px;
     color: #333
@@ -1786,25 +1958,25 @@
 
 @media screen and (min-width: 501px) {
     .toaster-theme-business .simple-table .simple-table {
-        display:visible
+        display: visible
     }
 }
 
 @media screen and (max-width: 500px) {
     .toaster-theme-business .simple-table .simple-table {
-        display:none
+        display: none
     }
 }
 
 @media screen and (min-width: 501px) {
     .toaster-theme-business .simple-table .simple-table-mobile {
-        display:none
+        display: none
     }
 }
 
 @media screen and (max-width: 500px) {
     .toaster-theme-business .simple-table .simple-table-mobile {
-        display:visible
+        display: visible
     }
 }
 
@@ -1894,25 +2066,25 @@
 
 @media screen and (min-width: 501px) {
     .toaster-theme-business .simple-table-mobile .simple-table {
-        display:visible
+        display: visible
     }
 }
 
 @media screen and (max-width: 500px) {
     .toaster-theme-business .simple-table-mobile .simple-table {
-        display:none
+        display: none
     }
 }
 
 @media screen and (min-width: 501px) {
     .toaster-theme-business .simple-table-mobile .simple-table-mobile {
-        display:none
+        display: none
     }
 }
 
 @media screen and (max-width: 500px) {
     .toaster-theme-business .simple-table-mobile .simple-table-mobile {
-        display:visible
+        display: visible
     }
 }
 
@@ -1963,7 +2135,10 @@
     z-index: 1
 }
 
-.toaster-theme-business .tooltip-valueline.tooltip-left::after,.toaster-theme-business .tooltip-valueline.tooltip-right::after,.toaster-theme-business .tooltip-valueline.tooltip-top::after,.toaster-theme-business .tooltip-valueline.tooltip-bottom::after {
+.toaster-theme-business .tooltip-valueline.tooltip-left::after,
+.toaster-theme-business .tooltip-valueline.tooltip-right::after,
+.toaster-theme-business .tooltip-valueline.tooltip-top::after,
+.toaster-theme-business .tooltip-valueline.tooltip-bottom::after {
     content: '';
     width: 14px;
     height: 14px;
@@ -2068,8 +2243,8 @@
 .toaster-theme-business .tooltip-gridline {
     stroke: var(--text);
     stroke-width: 1px;
-    -webkit-transition: all .18s cubic-bezier(.78,-.135,.88,1.245);
-    transition: all .18s cubic-bezier(.78,-.135,.88,1.245)
+    -webkit-transition: all .18s cubic-bezier(.78, -.135, .88, 1.245);
+    transition: all .18s cubic-bezier(.78, -.135, .88, 1.245)
 }
 
 .toaster-theme-business .annotations line {
@@ -2082,7 +2257,7 @@
 
 .toaster-theme-business .annotations text {
     text-anchor: end;
-    text-shadow: -1px -1px 1px var(--bg),-1px -.5px 1px var(--bg),-1px 0 1px var(--bg),-1px .5px 1px var(--bg),-1px 1px 1px var(--bg),-.5px -1px 1px var(--bg),-.5px -.5px 1px var(--bg),-.5px 0 1px var(--bg),-.5px .5px 1px var(--bg),-.5px 1px 1px var(--bg),0 -.5px 1px var(--bg),0 -.5px 1px var(--bg),0 1px 1px var(--bg),0 1px 1px var(--bg),.5px -1px 1px var(--bg),.5px -.5px 1px var(--bg),.5px 0 1px var(--bg),.5px .5px 1px var(--bg),.5px 1px 1px var(--bg),1px -1px 1px var(--bg),1px -.5px 1px var(--bg),1px 0 1px var(--bg),1px .5px 1px var(--bg),1px 1px 1px var(--bg)
+    text-shadow: -1px -1px 1px var(--bg), -1px -.5px 1px var(--bg), -1px 0 1px var(--bg), -1px .5px 1px var(--bg), -1px 1px 1px var(--bg), -.5px -1px 1px var(--bg), -.5px -.5px 1px var(--bg), -.5px 0 1px var(--bg), -.5px .5px 1px var(--bg), -.5px 1px 1px var(--bg), 0 -.5px 1px var(--bg), 0 -.5px 1px var(--bg), 0 1px 1px var(--bg), 0 1px 1px var(--bg), .5px -1px 1px var(--bg), .5px -.5px 1px var(--bg), .5px 0 1px var(--bg), .5px .5px 1px var(--bg), .5px 1px 1px var(--bg), 1px -1px 1px var(--bg), 1px -.5px 1px var(--bg), 1px 0 1px var(--bg), 1px .5px 1px var(--bg), 1px 1px 1px var(--bg)
 }
 
 .toaster-theme-business text.condensed-annotation {
@@ -2129,12 +2304,16 @@
 .toaster-theme-business.mobile.toaster-chart .simple-legend .swatch.line {
     width: 14px;
     height: 2.5px;
-    transform: rotate(-45deg) translate(7px,-1px);
-    -webkit-transform: rotate(-45deg) translate(7px,-1px);
+    transform: rotate(-45deg) translate(7px, -1px);
+    -webkit-transform: rotate(-45deg) translate(7px, -1px);
     margin-left: -7px
 }
 
-.toaster-theme-business.mobile.toaster-chart .axis-x text,.toaster-theme-business.mobile.toaster-chart .axis-y text,.toaster-theme-business.mobile.toaster-chart .axis-label-box text,.toaster-theme-business.mobile.toaster-chart .label-container text,.toaster-theme-business.mobile.toaster-chart .annotations text {
+.toaster-theme-business.mobile.toaster-chart .axis-x text,
+.toaster-theme-business.mobile.toaster-chart .axis-y text,
+.toaster-theme-business.mobile.toaster-chart .axis-label-box text,
+.toaster-theme-business.mobile.toaster-chart .label-container text,
+.toaster-theme-business.mobile.toaster-chart .annotations text {
     font-size: 12px
 }
 
@@ -2142,7 +2321,8 @@
     font-size: 20px
 }
 
-.toaster-theme-business.mobile.toaster-chart .source,.toaster-theme-business.mobile.toaster-chart .footnote {
+.toaster-theme-business.mobile.toaster-chart .source,
+.toaster-theme-business.mobile.toaster-chart .footnote {
     font-size: 12px
 }
 
@@ -2190,7 +2370,10 @@
     pointer-events: none
 }
 
-.toaster-theme-business.mobile #dial-chart .cls-10,.toaster-theme-business.mobile #dial-chart .cls-11,.toaster-theme-business.mobile #dial-chart .cls-13,.toaster-theme-business.mobile #dial-chart .cls-14 {
+.toaster-theme-business.mobile #dial-chart .cls-10,
+.toaster-theme-business.mobile #dial-chart .cls-11,
+.toaster-theme-business.mobile #dial-chart .cls-13,
+.toaster-theme-business.mobile #dial-chart .cls-14 {
     stroke-width: 2
 }
 
@@ -2232,11 +2415,14 @@
     width: 94px
 }
 
-.toaster-chart.mobile .logo.variant-logo-btax,.toaster-chart.mobile .logo.variant-logo-blaw {
+.toaster-chart.mobile .logo.variant-logo-btax,
+.toaster-chart.mobile .logo.variant-logo-blaw {
     width: 88px
 }
 
-.toaster-chart.mobile .logo.variant-logo-bgov,.toaster-chart.mobile .logo.variant-logo-benv,.toaster-chart.mobile .logo.variant-logo-quick {
+.toaster-chart.mobile .logo.variant-logo-bgov,
+.toaster-chart.mobile .logo.variant-logo-benv,
+.toaster-chart.mobile .logo.variant-logo-quick {
     width: 120px
 }
 

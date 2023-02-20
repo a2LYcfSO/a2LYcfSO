@@ -196,7 +196,6 @@
 }
 
 .toaster-theme-business {
-    background: var(--bg);
     font-family: "BWHaasDingbat","BWHaasText","Hiragino Kaku Gothic Pro","Noto Sans Japanese","Noto Sans Chinese",Arial,sans-serif;
     font-size: 14px;
     line-height: 16px;
@@ -1244,7 +1243,7 @@
 }
 
 .toaster-theme-business.quad-colors .f.series-0,.toaster-theme-business.quad-colors .line-area.series-0 {
-    fill: var(--text)
+    fill: var(--head)
 }
 
 .toaster-theme-business.quad-colors .f.series-1,.toaster-theme-business.quad-colors .line-area.series-1 {

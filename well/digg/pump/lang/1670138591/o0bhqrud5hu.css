@@ -244,6 +244,7 @@
     --mag-secondary: #775652;
     --mag-tertiary:#430a08;
     --input-bg:#FAFAFA;
+	--darker-card: #DBD4D3;
 
     
 }
@@ -281,6 +282,7 @@
     --bw: #ffffff;
     --darker:#333;
     --input-bg:var(--darker);
+	--darker-card: #1f1f1f;
   
 }
 
@@ -6911,12 +6913,23 @@ overflow: scroll;
     font-weight: 400;
 }
 
+figure.insetleft--magazineng-c.card-layout,figure.insetleft--magazine-c.card-layout {
+    background-color: var(--darker-card);
+    padding: 12px;
+    color: var(--head-sub);
+}
+
+figure.insetleft--magazineng-c.card-layout .n-content-layout__slot,figure.insetleft--magazine-c.card-layout .n-content-layout__slot {
+    color: var(--head-sub);
+}
+
+
 @media(min-width: 768px) {
     figure.insetright--magazineng-c {
         float: right;
         width: 50%;
         max-width: 360px;
-        margin: .7em 0 1em 1em !important
+        margin: .3em 0 1em 1em !important
     }
 
     figure.insetleft--magazineng-c {
@@ -6924,6 +6937,14 @@ overflow: scroll;
         width: 50%;
         max-width: 360px;
         margin: .7em 1em 1em 0 !important
+    }
+	
+	
+
+    figure.insetleft--magazineng-c.card-layout.w-full,figure.insetleft--magazine-c.card-layout.w-full {
+        float: none;
+        width: 100%;
+        max-width: 100%;
     }
 }
 

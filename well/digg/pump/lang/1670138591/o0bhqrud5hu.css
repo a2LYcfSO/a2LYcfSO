@@ -6925,14 +6925,27 @@ figure.insetleft--magazineng-c.card-layout .n-content-layout__slot,figure.insetl
 
 
 @media(min-width: 768px) {
-    figure.insetright--magazineng-c,figure.insetright--magazine-c {
+    figure.insetright--magazine-c {
         float: right;
         width: 50%;
         max-width: 360px;
         margin: .3em 0 1em 1em !important
     }
+	figure.insetleft--magazine-c {
+        float: left;
+        width: 50%;
+        max-width: 360px;
+        margin: .3em 1em 1em 0 !important
+    }
+	
+	figure.insetright--magazineng-c {
+        float: right;
+        width: 50%;
+        max-width: 360px;
+        margin: .7em 0 1em 1em !important
+    }
 
-    figure.insetleft--magazineng-c,figure.insetleft--magazine-c {
+    figure.insetleft--magazineng-c {
         float: left;
         width: 50%;
         max-width: 360px;
